@@ -1,0 +1,103 @@
+AVL INSERIR - 1.000 números
+Média geral iterações = 19.629
+
+
+AVL INSERIR - 5.000 números
+Média geral iterações = 121.684
+
+
+AVL INSERIR - 10.000 números
+Média geral iterações = 263.689
+
+//---------------------------------------------------------------------------
+AVL REMOVER - 1000 números
+Média geral iterações = 26.197
+
+
+AVL REMOVER - 5000 números
+Média geral iterações = 166.256
+
+
+AVL REMOVER - 10000 números
+Média geral iterações = 363.162
+
+//---------------------------------------------------------------------------
+RUBRO-NEGRA INSERIR - 1000 números
+Média geral iterações = 10.777
+
+
+RUBRO-NEGRA INSERIR - 5000 números
+Média geral iterações = 65.705
+
+
+RUBRO-NEGRA INSERIR - 10000 números
+Média geral iterações = 141.567
+
+//---------------------------------------------------------------------------
+RUBRO-NEGRA REMOVER - 1000 números
+Média geral iterações = 4.101
+
+
+RUBRO-NEGRA REMOVER - 5000 números
+Média geral iterações = 20.546
+
+
+RUBRO-NEGRA REMOVER - 10000 números
+Média geral iterações = 41.122
+
+//---------------------------------------------------------------------------
+
+ÁRVORE B 
+
+(ORDEM 1)
+
+1000 números
+Média geral inserir (iterações): 1.052.431
+Média geral remover (iterações): segmentation fault
+
+5000 números
+Média geral inserir (iterações): 25.336.736
+Média geral remover (iterações): segmentation fault
+
+10000 números
+Média geral inserir (iterações): 100.749.855
+Média geral remover (iterações): segmentation fault
+
+//---------------------------------------------------------------------------
+
+
+(ORDEM 5)
+
+1000 números
+Média geral inserir (iterações): 10.354
+Média geral remover (iterações): 6.738
+
+
+5000 números
+Média geral inserir (iterações): 63.964
+Média geral remover (iterações): segmentation fault
+
+
+10000 números
+Média geral inserir (iterações): 139.890
+Média geral remover (iterações): segmentation fault
+
+//---------------------------------------------------------------------------
+
+(ORDEM 10)
+
+1000 números
+Média geral inserir (iterações): 6.972
+Média geral remover (iterações): 5.050
+
+5000 números
+Média geral inserir (iterações): 41.181
+Média geral remover (iterações): 27.712
+
+10000 números
+Média geral inserir (iterações): 92.684
+Média geral remover (iterações): segmentation fault
+
+//---------------------------------------------------------------------------
+
+
